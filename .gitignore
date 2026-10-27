@@ -1,3 +1,5 @@
 backend/books/
 .venv/
 .env
+__pycache__/
+backend/evals/golden_dataset/

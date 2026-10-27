@@ -4,8 +4,8 @@ from search.dense_search import retrieve_chunks
 from search.hybrid_search import retrieve_hybrid
 
 TEST_QUERIES = [
-    "What is overfitting",
-    "how do you prevent it?",
+    "What is a feature vector, and what must be true about the feature at a given position across all examples in a dataset?",
+    "In unsupervised learning, what does the dataset consist of, and what does the model output in clustering, dimensionality reduction, and outlier detection?",
     # "Explain the difference between supervised and unsupervised learning",
     # "How does gradient descent work?",
     # "What is regularization?",

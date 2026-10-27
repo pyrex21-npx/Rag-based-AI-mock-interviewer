@@ -3,3 +3,10 @@ uvicorn[standard]
 python-multipart
 pypdf
 python-dotenv
+deepeval
+sqlalchemy[asyncio]
+psycopg[binary]
+pgvector
+alembic
+sentence-transformers
+litellm
